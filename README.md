@@ -6,6 +6,8 @@ Can send various types of files such as text, audio, video etc.
 
 Tools Used : Java Swing, Socket Programming
 
+Compile and run first server then run client with corresponding parameters
+
 #For TCPClient
 
  if at least three argument are passed, consider the first one as directory path,
@@ -17,3 +19,11 @@ Tools Used : Java Swing, Socket Programming
  If port number is not present, default it to 3333
  
  If directory path is not present, show error
+
+#For TCPServer
+
+if at least two argument are passed, consider the first one as directory path
+
+and the second one as port number
+
+If port number is not present, default it to 3333
