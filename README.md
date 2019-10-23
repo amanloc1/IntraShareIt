@@ -1,4 +1,4 @@
-###IntraShareIt
+# IntraShareit
 >Java Application for sharing files over a local network
 
 Developed a desktop application to share files across machines connected to the same local network.
